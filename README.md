@@ -10,3 +10,13 @@ I wanted to use DS18B20 on mbed-os, but existing libraries did not work for me. 
 ## How did it go?
 
 I used this library with Mbed OS 6.10 running on STM32 NUCLEO-F446RE development board and it is working perfectly.
+
+## How to use?
+
+Import this library using mbed-cli then compile the program.
+
+```sh
+mbed import https://github.com/alwint3r/onewire-mbed-os
+```
+
+See this [usage example with DS18B20](https://github.com/alwint3r/ds18b20-example-onewire-mbed-os).
