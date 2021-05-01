@@ -9,6 +9,4 @@ I wanted to use DS18B20 on mbed-os, but existing libraries did not work for me. 
 
 ## How did it go?
 
-I used this library with Mbed OS 6.10 running on STM32 NUCLEO-F446RE development board.
-
-
+I used this library with Mbed OS 6.10 running on STM32 NUCLEO-F446RE development board and it is working perfectly.
